@@ -35,6 +35,7 @@ public class Game {
 
 		}
 
+		//hello
 		ball.update(keyboard);
 		System.out.println("Ball speed: " + ball.getSpeed());
 //		for(Sprite box: objectBox) {
